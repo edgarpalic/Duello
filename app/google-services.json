@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726510378799",
+    "project_id": "duello-847d3",
+    "storage_bucket": "duello-847d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726510378799:android:98b17741d8e17d60fbcbda",
+        "android_client_info": {
+          "package_name": "com.edgar.duello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726510378799-sdba0e0mtj91gdposnjgqeatkh3tdlvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQxd7MUBDc79Nc4oe2mu3G5sqtkfaTfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726510378799-sdba0e0mtj91gdposnjgqeatkh3tdlvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
